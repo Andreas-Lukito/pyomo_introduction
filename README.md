@@ -1,4 +1,4 @@
-# YES
+# Pyomo Introduction
 
 ## Sources
 Notebook 01:
