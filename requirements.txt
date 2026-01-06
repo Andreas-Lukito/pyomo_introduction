@@ -1,0 +1,15 @@
+pyomo
+numpy
+scipy
+pandas
+sympy
+matplotlib
+seaborn
+plotly
+casadi
+networkx
+numdifftools
+mpmath
+Pint
+openpyxl
+PyYAML
