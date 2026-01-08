@@ -13,3 +13,4 @@ mpmath
 Pint
 openpyxl
 PyYAML
+highspy

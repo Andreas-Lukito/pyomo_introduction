@@ -63,6 +63,7 @@ Always match the solver to the problem type.
 The following solvers are used or demonstrated in this repository:  
 [![GLPK](https://img.shields.io/badge/GLPK-blue?style=plastic)](https://www.gnu.org/software/glpk/#downloading)  
 [![IPOPT](https://img.shields.io/badge/IPOPT-blue?style=plastic)](https://coin-or.github.io/Ipopt/INSTALL.html)  
+[![HiGHS](https://img.shields.io/badge/HiGHS-blue?style=plastic)](https://ergo-code.github.io/HiGHS/dev/installation/)
 
 ## Sources for Each Notebook
 The notebooks in this repository are inspired by and adapted from the following Pyomo tutorial videos.  
@@ -83,3 +84,6 @@ Each link corresponds to the concepts implemented in the notebook.
 - [7.1: Integer programming example in Pyomo - problem statement](https://youtu.be/XmL6PSNOLC8?si=ux_KOHvIP5Y33vXW)
 - [7.2: Integer programming example in Pyomo - implementation and solution](https://youtu.be/yejuQjXAuds?si=6XoDD0z0hkWl6_OZ)
 - [7.3: Integer programming example in Pyomo - solver log](https://youtu.be/hSINXlDKvRw?si=zOAC5TsuDr6_a3Eg)
+
+### [Notebook 04: Quadratic Programming](04_Quadratic_Programming.ipynb):
+- [Overview of Quadratic Programming (QP)](https://youtu.be/GZb9647X8sg?si=s_lR1ugYpgMK1Abg)
