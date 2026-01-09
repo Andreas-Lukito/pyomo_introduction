@@ -87,3 +87,6 @@ Each link corresponds to the concepts implemented in the notebook.
 
 ### [Notebook 04: Quadratic Programming](04_Quadratic_Programming.ipynb):
 - [Overview of Quadratic Programming (QP)](https://youtu.be/GZb9647X8sg?si=s_lR1ugYpgMK1Abg)
+
+### [Notebook 05: Non-Linear Programming](05_Non_Linear_Programming.ipynb):
+- [Nonlinear Programming Optimization](https://gaurav-adarshi.medium.com/nonlinear-programming-optimization-df65f0576998)
