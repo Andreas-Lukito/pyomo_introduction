@@ -49,7 +49,7 @@ Always match the solver to the problem type.
 | **Couenne** | MINLP |
 | **SCIP** | MILP, MINLP |
 | **APOPT** | NLP, MINLP |
-
+| **BONMIN** | MINLP |
 ##### Commercial solvers (licensed)
 | Solver | Task it Solves |
 | ------ | -------------- |
@@ -63,7 +63,8 @@ Always match the solver to the problem type.
 The following solvers are used or demonstrated in this repository:  
 [![GLPK](https://img.shields.io/badge/GLPK-blue?style=plastic)](https://www.gnu.org/software/glpk/#downloading)  
 [![IPOPT](https://img.shields.io/badge/IPOPT-blue?style=plastic)](https://coin-or.github.io/Ipopt/INSTALL.html)  
-[![HiGHS](https://img.shields.io/badge/HiGHS-blue?style=plastic)](https://ergo-code.github.io/HiGHS/dev/installation/)
+[![HiGHS](https://img.shields.io/badge/HiGHS-blue?style=plastic)](https://ergo-code.github.io/HiGHS/dev/installation/)  
+[![BONMIN](https://img.shields.io/badge/BONMIN-blue?style=plastic)](https://dev.ampl.com/solvers/bonmin/index.html)
 
 ## Sources for Each Notebook
 The notebooks in this repository are inspired by and adapted from the following Pyomo tutorial videos.  
@@ -89,4 +90,7 @@ Each link corresponds to the concepts implemented in the notebook.
 - [Overview of Quadratic Programming (QP)](https://youtu.be/GZb9647X8sg?si=s_lR1ugYpgMK1Abg)
 
 ### [Notebook 05: Non-Linear Programming](05_Non_Linear_Programming.ipynb):
+- [Nonlinear Programming Optimization](https://gaurav-adarshi.medium.com/nonlinear-programming-optimization-df65f0576998)
+
+### [Notebook 06: Mixed-Integer Non-Linear Programming](06_Mixed_Integer_Non_Linear_Programming.ipynb):
 - [Nonlinear Programming Optimization](https://gaurav-adarshi.medium.com/nonlinear-programming-optimization-df65f0576998)
